@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+
+img {
+    height: 600px;
+    width: 250px;
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+.info h3 {
+    text-align: center;
+}
